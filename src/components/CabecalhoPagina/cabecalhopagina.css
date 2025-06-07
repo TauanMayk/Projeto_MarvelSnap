@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.dark-mode{
+    background: url("../../images/default.webp") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.imagem-lua{
+    display: none;
+}
+
+.dark-mode .imagem-lua{
+    display: block;
+}

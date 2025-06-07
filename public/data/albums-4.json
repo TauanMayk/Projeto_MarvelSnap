@@ -1,0 +1,334 @@
+{
+    "page": 4,
+    "total_pages": 15,
+    "next": 5,
+    "previous": 3,
+    "data": [
+        {
+            "id": 13,
+            "album_name": "Disco's Not Dead",
+            "gold": 8400,
+            "album_key": "DiscoAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 516,
+                    "variant_key": "CaptainAmerica_29",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/6beec908-79a8-4f3a-1781-4eb35fed2600/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1010,
+                    "variant_key": "Forge_14",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e12c0c96-bdf8-406c-d358-8805b23ceb00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1344,
+                    "variant_key": "Hulk_18",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/657a5093-5c1c-4a84-8b48-c6042bfed500/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 1374,
+                    "variant_key": "HumanTorch_18",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/dc7e3f4a-85f0-48db-21c2-43dfd5b9d200/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1843,
+                    "variant_key": "Magik_32",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5427a3f2-2ca8-4be3-b1d6-da3816a70a00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2595,
+                    "variant_key": "ScarletWitch_31",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d9842c7f-54f1-4a94-dc34-11cf7c4b4f00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2693,
+                    "variant_key": "ShangChi_22",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/bfdef4d5-6ee1-43f1-5db9-d401327a5500/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2720,
+                    "variant_key": "SheHulk_27",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2d7f5ec1-b8cd-452b-1922-f04056a38900/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2939,
+                    "variant_key": "Storm_28",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/1b2422f1-b34e-41a4-5437-db32b98b3000/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 3105,
+                    "variant_key": "Thor_27",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ab191321-cb76-449a-ff1b-c46eb6b15700/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3186,
+                    "variant_key": "Venom_29",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/10b40a9a-15b6-4e22-9114-5af816a43400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3268,
+                    "variant_key": "WerewolfByNight_15",
+                    "variant_label": "Disco",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e2d51395-656a-427e-2fd8-b42b92c3b300/public",
+                    "card_series": "Series4"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "album_name": "Dream or Nightmare?",
+            "gold": 14400,
+            "album_key": "PeachMomokoNightmare",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 346,
+                    "variant_key": "BlackPanther_17",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/07e241c1-4029-4bd2-2b06-d6c6df306d00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 539,
+                    "variant_key": "CaptainMarvel_23",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4a7f433e-07d4-4134-0ef8-45be7f37d100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 556,
+                    "variant_key": "Carnage_15",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/41bff120-b532-4049-04e2-56ca41d8b300/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2251,
+                    "variant_key": "Nightcrawler_14",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/be905273-ccb2-436b-0c9b-86eb6615d100/public",
+                    "card_series": "Series0"
+                },
+                {
+                    "variant_id": 2514,
+                    "variant_key": "Rogue_14",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/768ab0a9-1d9a-4422-ecc0-0ba1ec60b300/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2649,
+                    "variant_key": "Sentry_07",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3ef6c865-2667-4b9e-f7f7-09c114ac9f00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2783,
+                    "variant_key": "SilverSurfer_15",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/82c7eebb-8059-43f3-ca4f-08489bb73900/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2847,
+                    "variant_key": "SpiderMan_22",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3b5823f3-4a1f-4693-f666-d3f26f3d3000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2873,
+                    "variant_key": "SpiderWoman_11",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/686efcb1-5ee1-4228-2d7f-9d0a06a94e00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 3099,
+                    "variant_key": "Thor_18",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/99fb8d2b-0b55-4feb-3742-cf57f020db00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3180,
+                    "variant_key": "Venom_12",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a806d0dd-f1e6-444b-3112-f54fdbe12c00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3331,
+                    "variant_key": "Wolverine_23",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/510639a4-9473-494c-6431-89e09b4e4100/public",
+                    "card_series": "Series1"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "album_name": "Duck Duck Juice",
+            "gold": 5600,
+            "album_key": "PocketFruitCasualAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 1055,
+                    "variant_key": "Gambit_20",
+                    "variant_label": "Creative House Pocket",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/75e0d192-46ee-4f2c-1444-6a12bc608e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1535,
+                    "variant_key": "JeffTheBabyLandShark_17",
+                    "variant_label": "Creative House Pocket",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/fa0baa67-fa24-47d0-afd8-38f038355e00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1549,
+                    "variant_key": "JessicaJones_10",
+                    "variant_label": "Creative House Pocket",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/19e8ed95-51cc-4dc5-68b1-c0b1a02e6200/public",
+                    "card_series": "Series0"
+                },
+                {
+                    "variant_id": 1603,
+                    "variant_key": "KateBishop_15",
+                    "variant_label": "Creative House Pocket",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7ae09cd3-3084-442d-2596-66fb6e49d200/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1872,
+                    "variant_key": "Malekith_07",
+                    "variant_label": "Creative House Pocket",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/35223c29-fb27-46d8-63e5-3a0c70e54400/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2217,
+                    "variant_key": "NegasonicTeenageWarhead_10",
+                    "variant_label": "Creative House Pocket",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/733c72ea-2a7c-465f-8e4d-a539ce692b00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2624,
+                    "variant_key": "SebastianShaw_10",
+                    "variant_label": "Creative House Pocket",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/bf5efa08-8167-4884-0417-3960e7d6c400/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 2830,
+                    "variant_key": "SpiderHam_11",
+                    "variant_label": "Creative House Pocket",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/acb43b10-3df8-402d-81e4-33e6d10b9f00/public",
+                    "card_series": "Series3"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "album_name": "Envar-lievable!",
+            "gold": 9500,
+            "album_key": "EnvarLineArtAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 490,
+                    "variant_key": "Cannonball_08",
+                    "variant_label": "Envar Studio",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/86801324-4c80-4d15-3138-388e671f3100/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 612,
+                    "variant_key": "Copycat_09",
+                    "variant_label": "Envar Studio",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/bce31079-264d-43f2-c35a-754a3698d500/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 634,
+                    "variant_key": "Cosmo_12",
+                    "variant_label": "Envar Studio",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/1e71d9e1-dbf6-4185-e6ae-3f00cc3c2700/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 913,
+                    "variant_key": "Echo_09",
+                    "variant_label": "Envar Studio",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e0077359-f578-4fe3-cfc8-d214e046fa00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 955,
+                    "variant_key": "ElsaBloodstone_15",
+                    "variant_label": "Envar Studio",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4af7b399-abc9-4842-9873-d71a6b17e900/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1015,
+                    "variant_key": "Frigga_05",
+                    "variant_label": "Envar Studio",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f6d510bb-cc42-4ef6-265a-9bc5d81c5800/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1181,
+                    "variant_key": "GreenGoblin_15",
+                    "variant_label": "Envar Studio",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ee5864fa-2078-43f8-3810-e428b8970e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1712,
+                    "variant_key": "LadyDeathstrike_10",
+                    "variant_label": "Envar Studio",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/6eb530e9-68e8-46f5-bd71-b409040c3c00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1986,
+                    "variant_key": "Misery_10",
+                    "variant_label": "Envar Studio",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/20c24a2d-ad7e-4da5-4663-f7bef36a8800/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2601,
+                    "variant_key": "Scorn_06",
+                    "variant_label": "Envar Studio",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/577cd939-e728-4a4b-cf5c-76bf89d53c00/public",
+                    "card_series": "Series5"
+                }
+            ]
+        }
+    ]
+}

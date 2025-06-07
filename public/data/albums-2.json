@@ -1,0 +1,390 @@
+{
+    "page": 2,
+    "total_pages": 15,
+    "next": 3,
+    "previous": 1,
+    "data": [
+        {
+            "id": 5,
+            "album_name": "Boss Babies",
+            "gold": 10400,
+            "album_key": "BossBabies",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 736,
+                    "variant_key": "Deadpool_04",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f8740d68-1978-4301-69b2-fad63520e500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1334,
+                    "variant_key": "Hulk_04",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/eb4435e0-c3e2-45db-8f89-a7125898b500/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 1365,
+                    "variant_key": "HumanTorch_06",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ea21eff5-275e-4a4b-e56d-c4994b764d00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1390,
+                    "variant_key": "Iceman_04",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/1caaf42a-ec1d-4685-0fbf-58f07be7d000/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 1467,
+                    "variant_key": "IronMan_06",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b2670786-6c9b-4d7b-7520-0c62d565d600/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 2072,
+                    "variant_key": "Morbius_03",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/fa3e745a-1108-4918-f127-ba3d8c51d100/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2200,
+                    "variant_key": "Nebula_03",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/db6868e6-9874-4146-9f6b-77abc6323200/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2242,
+                    "variant_key": "Nightcrawler_03",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/1e60a775-a12f-45d6-9b6c-7535640ece00/public",
+                    "card_series": "Series0"
+                },
+                {
+                    "variant_id": 2681,
+                    "variant_key": "ShangChi_03",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a396cb76-2ac8-418c-47d1-4278f9f20700/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2740,
+                    "variant_key": "Silk_03",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e55c8bec-d593-475c-5b30-568cb9e26e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2857,
+                    "variant_key": "SpiderMan2099_03",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a74e2064-b937-46b6-43c0-8459b611e500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3350,
+                    "variant_key": "X23_05",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a5486e44-295c-4d88-f0e7-7053b31d0100/public",
+                    "card_series": "Series4"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "album_name": "Buy My Variants",
+            "gold": 8800,
+            "album_key": "DeadpoolCharacterAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 733,
+                    "variant_key": "Deadpool_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4618ce35-7a7b-4f93-17f1-5220ada81500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 734,
+                    "variant_key": "Deadpool_02",
+                    "variant_label": "Tacocat",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/41e0bd68-8dae-41b4-7427-ac1beab9bb00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 735,
+                    "variant_key": "Deadpool_03",
+                    "variant_label": "Clayton Crain",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/1ef6f291-c5b6-41f5-fd2d-8320c7915500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 736,
+                    "variant_key": "Deadpool_04",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f8740d68-1978-4301-69b2-fad63520e500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 737,
+                    "variant_key": "Deadpool_05",
+                    "variant_label": "Venomized",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/03e3ff43-a26e-43dc-d0c6-223b091eb800/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 738,
+                    "variant_key": "Deadpool_06",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/104d70a7-a521-4f08-f2a8-cd802953eb00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 739,
+                    "variant_key": "Deadpool_07",
+                    "variant_label": "Penny Arcade",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f1763273-246b-4902-755f-09ea353bfa00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 740,
+                    "variant_key": "Deadpool_08",
+                    "variant_label": "Skottie Young",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/18f7f4a5-c846-4ac3-0d14-4df65fec3e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 741,
+                    "variant_key": "Deadpool_09",
+                    "variant_label": "Post Apocalyptic",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/554eb75a-e9bc-47b0-25bb-7160a9717b00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 743,
+                    "variant_key": "Deadpool_11",
+                    "variant_label": "Peach Momoko",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d79c875b-e4ff-4295-3087-98535d5a3f00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 744,
+                    "variant_key": "Deadpool_12",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/acab63fa-598d-41f4-215b-3f7965691000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 747,
+                    "variant_key": "Deadpool_18",
+                    "variant_label": "Deodato",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8d8a68ff-8118-48ad-d2d4-348ed4235b00/public",
+                    "card_series": "Series3"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "album_name": "Chaos and Carnage",
+            "gold": 8300,
+            "album_key": "CarnageCharacterAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 542,
+                    "variant_key": "Carnage_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2fc4c4c9-7749-46f0-8111-68d9df262200/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 543,
+                    "variant_key": "Carnage_02",
+                    "variant_label": "Artgerm",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ddd682c5-d011-4fff-70bd-952a41554f00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 544,
+                    "variant_key": "Carnage_03",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/293e5a6a-2525-455e-a818-63a56ac55e00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 545,
+                    "variant_key": "Carnage_04",
+                    "variant_label": "Mark Bagley",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/67afd9ee-d875-4bb4-1239-a33165757500/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 546,
+                    "variant_key": "Carnage_05",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ec27571a-6d10-4f92-366e-11943971d000/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 547,
+                    "variant_key": "Carnage_06",
+                    "variant_label": "Nick Bradshaw",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/31719afe-da42-4a6e-d3ae-f3abd64f5600/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 548,
+                    "variant_key": "Carnage_07",
+                    "variant_label": "Fiona Hsieh",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3b6d6c4a-7f4c-4308-6f51-955c3127a500/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 549,
+                    "variant_key": "Carnage_08",
+                    "variant_label": "Conqueror",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c2446190-4161-4cc9-3f4f-50ec05d20000/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 550,
+                    "variant_key": "Carnage_09",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3e0cdd4a-49a4-4d8d-7a04-2d7d54521400/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 551,
+                    "variant_key": "Carnage_10",
+                    "variant_label": "In-Hyuk Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/25324468-2f8a-4ae0-9f3a-521d609e7800/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 552,
+                    "variant_key": "Carnage_11",
+                    "variant_label": "Gerardo Sandoval",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b02709fe-79c6-498f-4b6b-b9ea06a44a00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 553,
+                    "variant_key": "Carnage_12",
+                    "variant_label": "Rose Besch",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/72120617-8424-4e21-c241-e4dd4faff200/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 556,
+                    "variant_key": "Carnage_15",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/41bff120-b532-4049-04e2-56ca41d8b300/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 557,
+                    "variant_key": "Carnage_17",
+                    "variant_label": "Nicola Saviori",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b3bba7d8-39d0-4915-029a-c62e8896b500/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 560,
+                    "variant_key": "Carnage_23",
+                    "variant_label": "PANDART STUDIO",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/aa88c741-e5ba-44da-0c91-2cdd3bdd0300/public",
+                    "card_series": "Series1"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "album_name": "Chibi Supremacy",
+            "gold": 14400,
+            "album_key": "RianChibi2",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 460,
+                    "variant_key": "Bullseye_11",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3e1b0a45-132b-4a34-5562-7da5dbb6a300/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 656,
+                    "variant_key": "CullObsidian_05",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/9c2d9086-711c-4ee0-9464-ed7ee9fd6b00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 989,
+                    "variant_key": "FenrisWolf_02",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/83a07969-bb22-4455-bd58-313ea71b9900/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1380,
+                    "variant_key": "HydraBob_08",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/1ca0c816-aa8c-40a0-3df2-632ea4cbdc00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1492,
+                    "variant_key": "IronPatriot_08",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/94d4a355-752a-4884-775c-5d65f0ee7e00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1551,
+                    "variant_key": "JoaquinTorres_02",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d98a0c15-7ecc-4d7f-09d2-812a6ad87800/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2446,
+                    "variant_key": "RedHulk_06",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a622e968-7a06-4898-32f0-3a5970694a00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2458,
+                    "variant_key": "Redwing_02",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d063280f-7d22-47eb-ec7f-35e5850eea00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2547,
+                    "variant_key": "SamWilson_03",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b0f975d0-828b-4a0c-7444-6b9472a4f500/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2984,
+                    "variant_key": "Surtur_03",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5811dc48-021a-4970-fddf-7c01b0e06400/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 3022,
+                    "variant_key": "ThaddeusRoss_04",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8e4d7439-fb56-45ef-b017-06141b128400/public",
+                    "card_series": "Series5"
+                }
+            ]
+        }
+    ]
+}

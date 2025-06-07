@@ -1,0 +1,376 @@
+{
+    "page": 3,
+    "total_pages": 15,
+    "next": 4,
+    "previous": 2,
+    "data": [
+        {
+            "id": 9,
+            "album_name": "Cosmic Companions",
+            "gold": 8400,
+            "album_key": "CosmicCompanions",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 26,
+                    "variant_key": "AdamWarlock_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/653f083f-99f1-4982-6298-d2084476f400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 135,
+                    "variant_key": "Annihilus_03",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7ea99614-934a-4298-0c8f-ab007a582d00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 716,
+                    "variant_key": "Darkhawk_08",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2f02b8e8-bb3a-4a28-906a-503dc816b800/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1032,
+                    "variant_key": "Galactus_08",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0f6118f9-36e5-431b-8d30-33c57b1d8100/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1134,
+                    "variant_key": "Gladiator_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/6040404e-d517-41e1-7ad4-a524da7b2100/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1321,
+                    "variant_key": "HowardTheDuck_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/51136eb8-d370-47e8-3344-e13485378c00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1405,
+                    "variant_key": "Infinaut_06",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f3159047-7359-4da3-5604-e39c73d42200/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 1670,
+                    "variant_key": "Knull_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/22ea73fd-049d-4eb5-1ba2-898cc42a1100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1761,
+                    "variant_key": "LivingTribunal_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3e3ff940-715d-4384-07ae-f05e84243b00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1901,
+                    "variant_key": "Martyr_04",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8cf25452-ade8-4451-3c0a-ef46dd837500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2777,
+                    "variant_key": "SilverSurfer_08",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/cd1157ca-9877-4d69-3982-f000e6b54e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3046,
+                    "variant_key": "TheCollector_04",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/271a34c8-7f8d-42ed-469e-f1c13c619700/public",
+                    "card_series": "Series2"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "album_name": "Cosmic Conquerers",
+            "gold": 8400,
+            "album_key": "CosmicDanHippAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 271,
+                    "variant_key": "BetaRayBill_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/126a3409-ced6-4820-4265-281c9de3a300/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 353,
+                    "variant_key": "BlackSwan_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0ccc0ee4-0569-4e1a-940b-0d3e1a90d700/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 399,
+                    "variant_key": "Blink_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/939ee79e-7d78-4e1c-1fba-d5c37d87ba00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 478,
+                    "variant_key": "Caiera_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a3bc07b2-a02a-4795-6ba5-40afa4374300/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 617,
+                    "variant_key": "CorvusGlaive_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/27f02897-f36b-4990-3734-736714ecc700/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 653,
+                    "variant_key": "CullObsidian_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/94ca286c-3f58-4b69-664d-84f98d9fad00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1163,
+                    "variant_key": "GrandMaster_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/1b2c6183-b466-4d22-794a-5c6c530bad00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1354,
+                    "variant_key": "Hulkling_03",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5d80c906-46a2-47c9-96cc-219b1b823c00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2263,
+                    "variant_key": "Nocturne_04",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/1828f364-fe75-4475-dfde-dd05c4331300/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2338,
+                    "variant_key": "Phastos_04",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2d1e4365-8e24-4245-cc70-3d885e164200/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 2379,
+                    "variant_key": "ProximaMidnight_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4dbd4f91-eb82-45fa-7d47-2ed6d2007c00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2966,
+                    "variant_key": "Supergiant_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d67369cc-f3db-4ba5-8f22-a0afa107fc00/public",
+                    "card_series": "Series4"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "album_name": "Cute But Deadly",
+            "gold": 13200,
+            "album_key": "NoChibiRian",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 39,
+                    "variant_key": "Aero_06",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4ab446f0-09a6-4292-bb18-69bbb4f30a00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 101,
+                    "variant_key": "AmericaChavez_05",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5fa4000c-a906-4621-0f5d-53509e721200/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 650,
+                    "variant_key": "Crystal_05",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0d06807c-df44-44e5-2749-efe8a3348a00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1043,
+                    "variant_key": "Gambit_03",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/56212029-bc5d-4c81-fb4f-f309121e6000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1562,
+                    "variant_key": "Jubilee_07",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b3b343e7-cb16-4d1c-15bf-4de430779900/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2125,
+                    "variant_key": "MsMarvel_03",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a12556fc-d4a8-4b7f-e352-5840ada5ad00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 2355,
+                    "variant_key": "Polaris_05",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/24d31bb3-b0e5-4dd1-74cc-f0c62ba9ea00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2506,
+                    "variant_key": "Rogue_04",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/58760d21-9a41-4458-24b4-6271abe71100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2685,
+                    "variant_key": "ShangChi_07",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/55dc54c9-52de-4893-fe3c-f5ea47814c00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2804,
+                    "variant_key": "Spectrum_03",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f124b2e6-dbb5-4682-cff3-7359c7583500/public",
+                    "card_series": "Series0"
+                },
+                {
+                    "variant_id": 2870,
+                    "variant_key": "SpiderWoman_07",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/87c09713-b4bb-4546-4530-8fe13204e500/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 3165,
+                    "variant_key": "Valkyrie_05",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8d7b8ae8-aeb8-45e7-cf7d-0d64cda7d000/public",
+                    "card_series": "Series3"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "album_name": "DESTROY All Pixels",
+            "gold": 8400,
+            "album_key": "PixelDestroy",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 213,
+                    "variant_key": "ArnimZola_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/87ba9429-ecd5-4e6d-c4a6-ad5dca29e000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 542,
+                    "variant_key": "Carnage_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2fc4c4c9-7749-46f0-8111-68d9df262200/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 733,
+                    "variant_key": "Deadpool_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4618ce35-7a7b-4f93-17f1-5220ada81500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 766,
+                    "variant_key": "Deathlok_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/053db8ab-34a9-47dd-7a0d-bfcc7d5d1a00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 754,
+                    "variant_key": "Death_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ed4958d4-29a8-4a2a-6fa4-c92838ed8300/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1001,
+                    "variant_key": "Forge_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b7e24651-8ea0-449c-d329-3ba0bc92f800/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1622,
+                    "variant_key": "Killmonger_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/dffeff7e-429f-4c1f-ee2d-6895da43be00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 1669,
+                    "variant_key": "Knull_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c8f86518-1e1e-444d-715c-2f7e3e111000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1704,
+                    "variant_key": "LadyDeathstrike_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4c745080-c1c8-44d8-5b77-5a3a1f465200/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2269,
+                    "variant_key": "Nova_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0e0bce02-67e9-46c2-191b-ef51dcd1ac00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 3170,
+                    "variant_key": "Venom_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7ab8d5f4-59b2-40cc-b74d-f80892e66100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3313,
+                    "variant_key": "Wolverine_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8cea8620-9e85-44b6-40dd-18e8adf62300/public",
+                    "card_series": "Series1"
+                }
+            ]
+        }
+    ]
+}

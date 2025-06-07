@@ -1,0 +1,348 @@
+{
+    "page": 5,
+    "total_pages": 15,
+    "next": 6,
+    "previous": 4,
+    "data": [
+        {
+            "id": 17,
+            "album_name": "Even Heroes Get Hungry",
+            "gold": 8400,
+            "album_key": "WildBlueFoodAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 94,
+                    "variant_key": "Alioth_08",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/16b51ad8-61c3-433c-dce0-5b92d111c600/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 265,
+                    "variant_key": "Beast_13",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2d6086c1-85f8-4608-8b35-548f1aff2900/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 631,
+                    "variant_key": "Cosmo_09",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5eb5307a-eee5-420e-5e8d-a048d9e17b00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 806,
+                    "variant_key": "DevilDinosaur_25",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/6033d847-3799-47d3-5bc0-46ad8547ed00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 870,
+                    "variant_key": "Dracula_14",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/45852a4e-9359-4a5a-33ab-da45f440b100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 894,
+                    "variant_key": "DrDoom_20",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8d303be5-3b58-4ae5-4c0b-0e9e011c7500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1532,
+                    "variant_key": "JeffTheBabyLandShark_11",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/aebc61cf-4b3f-4d28-a80d-78e2ee638e00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1745,
+                    "variant_key": "Leech_07",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/fb051eed-6af1-4011-87c1-9c139c153300/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2043,
+                    "variant_key": "MoonGirl_12",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e66ee244-85ab-4ead-8161-d8a3bb88ff00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2209,
+                    "variant_key": "Nebula_12",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7b18923c-cdfd-40d1-becf-3215af7a2c00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2717,
+                    "variant_key": "SheHulk_17",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/82a5b253-bb5c-4432-1593-a0dd3ef9bb00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3360,
+                    "variant_key": "X23_17",
+                    "variant_label": "Food Fight",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/24db8e7d-971a-4e47-4d29-41927e755600/public",
+                    "card_series": "Series4"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "album_name": "Fashion Is My Passion",
+            "gold": 9600,
+            "album_key": "LemonFashionAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 611,
+                    "variant_key": "Copycat_08",
+                    "variant_label": "Lemon Art",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/979cb9c8-5b56-487a-471a-486449f86d00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1318,
+                    "variant_key": "HopeSummers_10",
+                    "variant_label": "Lemon Art",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c1d6c494-01c7-4ee7-0a7b-50785b52e700/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1548,
+                    "variant_key": "JessicaJones_09",
+                    "variant_label": "Lemon Art",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/091ce1c2-f627-4efe-8764-a9d658c02400/public",
+                    "card_series": "Series0"
+                },
+                {
+                    "variant_id": 1907,
+                    "variant_key": "MarvelBoy_06",
+                    "variant_label": "Lemon Art",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b6e1bd79-4fb6-44b6-0c42-bbcec4cbbe00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2012,
+                    "variant_key": "Mockingbird_11",
+                    "variant_label": "Lemon Art",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/73f64c8a-4868-4566-adf9-a7c64d201e00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2543,
+                    "variant_key": "Sage_07",
+                    "variant_label": "Lemon Art",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3e5da757-9337-4a23-0d7f-288e7c245b00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2819,
+                    "variant_key": "Speed_08",
+                    "variant_label": "Lemon Art",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/11a49df6-772a-44b2-8ead-a0c214b03400/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2899,
+                    "variant_key": "Starlord_11",
+                    "variant_label": "Lemon Art",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5596a1be-922b-48b8-eb52-27774492f700/public",
+                    "card_series": "Starter"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "album_name": "Flaviano Enjoyer",
+            "gold": 12900,
+            "album_key": "FlavianoEnjoyer",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 24,
+                    "variant_key": "AdamWarlock_03",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3ce8c61e-6ae3-43d1-4428-af85a166cb00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 712,
+                    "variant_key": "Darkhawk_04",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4325b601-5b82-4bb1-6bea-9c39ac424900/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 757,
+                    "variant_key": "Death_04",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/66e7cf39-866f-469b-2c98-ed3589f98400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1029,
+                    "variant_key": "Galactus_05",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/aae2b0da-1cb3-440a-97ed-b0e7e969c000/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1205,
+                    "variant_key": "Havok_10",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/70e8fbbc-415e-48e9-3c72-e076e5717200/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1230,
+                    "variant_key": "Heimdall_03",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2f32cff6-053a-4a76-9c72-f93d8916e900/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1454,
+                    "variant_key": "IronLad_06",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4ad36011-b64e-4e5f-4ec7-54cfe235a800/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1662,
+                    "variant_key": "Klaw_03",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c9bf0819-520e-4393-d042-da539355d500/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1758,
+                    "variant_key": "LivingTribunal_02",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/324a3e32-ecf0-4c3d-c245-bdede58c9200/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 2281,
+                    "variant_key": "Odin_03",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e768b988-ee0c-42b6-3669-db7522f9ee00/public",
+                    "card_series": "Series0"
+                },
+                {
+                    "variant_id": 2330,
+                    "variant_key": "Patriot_08",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/429def67-b023-4b88-1e61-e2c398071000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2933,
+                    "variant_key": "Storm_18",
+                    "variant_label": "Flaviano Armentaro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/120d2ab0-dc45-47ec-4d80-9e9f9ba1b000/public",
+                    "card_series": "Series2"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "album_name": "Future Villains",
+            "gold": 12400,
+            "album_key": "Villians3099",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 217,
+                    "variant_key": "ArnimZola_05",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4fbb62e9-65f7-483e-ff0e-b8d497dd7100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 228,
+                    "variant_key": "Attuma_04",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/fe3ad516-e348-4c55-a799-e9399ad54600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 234,
+                    "variant_key": "BaronMordo_03",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/83a4dfa3-81ca-499f-21c5-346748cb3700/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 861,
+                    "variant_key": "Dracula_03",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/879491f1-6735-47b1-d2fd-1fd8abeb7500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1626,
+                    "variant_key": "Killmonger_05",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/08377eda-0639-4427-655f-547cbf2c1500/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 1665,
+                    "variant_key": "Klaw_06",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/da1dd9d5-5eb1-4b9c-3ff1-fe591007e800/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2301,
+                    "variant_key": "OmegaRed_04",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/6fdca906-6878-4699-0541-69f446c87c00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2528,
+                    "variant_key": "Sabretooth_03",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b2dad34e-730e-4eff-2f41-ba9f7fe2a100/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2555,
+                    "variant_key": "Sandman_05",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/adb6a0b7-37f4-4a4e-e651-4fb5b2f90c00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2563,
+                    "variant_key": "Sauron_02",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c204a860-7803-404f-dfd9-588535f2fd00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2726,
+                    "variant_key": "Shocker_05",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3d821972-256a-4f5f-8559-f4955c16b000/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 2976,
+                    "variant_key": "SuperSkrull_06",
+                    "variant_label": "3099",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8b88fe4c-b870-45b2-a53d-5af1e198ac00/public",
+                    "card_series": "Series3"
+                }
+            ]
+        }
+    ]
+}
