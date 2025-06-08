@@ -1,6 +1,6 @@
 # 🃏 Projeto Marvel Snap - Álbum de Cartas
 
-Um projeto visual e interativo desenvolvido com **React + TypeScript**, onde os usuários podem explorar um álbum de cartas do jogo **Marvel Snap**, filtrando cartas por artista e visualizando informações únicas de cada personagem.
+Um projeto visual e interativo desenvolvido com **React + TypeScript**, onde os usuários podem explorar um álbum de cartas do jogo **Marvel Snap**, filtrando cartas por nome do album e visualizando informações todas as cartas do album
 
 ## Preview do Projeto
 ![Screenshot_78](https://github.com/user-attachments/assets/9f31f80e-e8b6-4691-9a90-8cf62a019880)
