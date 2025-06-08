@@ -59,13 +59,13 @@ export const MainPage = () => {
     <>
       <CabecalhoPagina />
       <main className="container mx-auto px-4 py-8 mb-auto">
-        <h1 className="text-3xl font-semibold mb-10 text-[#6528d3]">
-          Produtos
+        <h1 className="text-3xl font-semibold font-display mb-10 text-[#000]">
+          Album de Cartas do Marvel Snap
         </h1>
         <div className="flex flex-wrap gap-4 items-end mb-14 justify-space-between">
           <div className="categorias-cartas flex flex-col w-1/3">
-            <label className="block font-medium text-purple-700 mb-1">
-              Categoria
+            <label className="block font-medium text-purple-800 font-bold mb-1">
+              Album Selecionado:
             </label>
             <select
               value={albumSelecionado}

@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@font-face {
+    font-family: "CC_ultimate";
+    src: url(../../assets/fonts/cc-ultimatum-bold-italic.otf);
+}
+
+@theme {
+    --font-display: "CC_ultimate", "sans-serif";
+}
