@@ -2,13 +2,14 @@
 
 Um projeto visual e interativo desenvolvido com **React + TypeScript**, onde os usuários podem explorar um álbum de cartas do jogo **Marvel Snap**, filtrando cartas por artista e visualizando informações únicas de cada personagem.
 
-![Preview do Projeto](./Screenshot_78.png)
+## Preview do Projeto
+![Screenshot_78](https://github.com/user-attachments/assets/9f31f80e-e8b6-4691-9a90-8cf62a019880)
 
 ---
 
 ## 🚀 Acesse o Projeto
 
-🔗 [Clique aqui para visualizar o projeto online](https://tauanmayk.github.io/Projeto_MarvelSnap/)
+🔗 [Clique aqui para visualizar o projeto online](https://projetomarvelsnap.vercel.app/)
 
 ---
 
