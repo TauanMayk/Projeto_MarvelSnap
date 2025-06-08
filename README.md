@@ -18,8 +18,8 @@ Um projeto visual e interativo desenvolvido com **React + TypeScript**, onde os 
 - **React**
 - **TypeScript**
 - **Vite**
-- **Tailwind CSS** – Estilização moderna e responsiva
-- **Bootstrap Icons** – Ícones prontos para uso
+- **Tailwind CSS** 
+- **Bootstrap Icons** 
 - **HTML5 / CSS3**
 
 ---
