@@ -1,0 +1,341 @@
+{
+    "page": 7,
+    "total_pages": 15,
+    "next": 8,
+    "previous": 6,
+    "data": [
+        {
+            "id": 25,
+            "album_name": "Kim Jacinto",
+            "gold": 13200,
+            "album_key": "TakeoverKimJacinto",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 430,
+                    "variant_key": "Brood_06",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d0aa0bf8-f412-47b0-09a7-f9867bf0a100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 920,
+                    "variant_key": "Electro_06",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a67c8526-0dae-49f9-df32-b6133343bf00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1082,
+                    "variant_key": "GhostRider_06",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/01636279-bc79-4017-89e5-5e31d208f900/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1363,
+                    "variant_key": "HumanTorch_04",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/221675b9-c82f-4230-629d-4cc76ba3e600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1677,
+                    "variant_key": "Knull_09",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d6dfc329-5dd2-483f-f96c-5e6e94fbe200/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2244,
+                    "variant_key": "Nightcrawler_05",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/9eeb211f-1fba-4871-f3ea-0dab577af000/public",
+                    "card_series": "Series0"
+                },
+                {
+                    "variant_id": 2312,
+                    "variant_key": "Onslaught_05",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c8e2c0ad-a60f-41df-e00d-e20a77b91800/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2647,
+                    "variant_key": "Sentry_05",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/107f349b-c4da-426c-d245-8a73541e1800/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2680,
+                    "variant_key": "ShangChi_02",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7c9db6d3-2149-496a-7a46-a9cff691ff00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2806,
+                    "variant_key": "Spectrum_05",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5023d1bb-6d50-4c79-4ddc-f13beb200900/public",
+                    "card_series": "Series0"
+                },
+                {
+                    "variant_id": 3142,
+                    "variant_key": "Ultron_05",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e24985f8-f742-4560-ba0b-348626bd1400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3174,
+                    "variant_key": "Venom_05",
+                    "variant_label": "Kim Jacinto",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/dca876d5-812e-4189-aa5d-3d561b5fe000/public",
+                    "card_series": "Series3"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "album_name": "Low Cost, High Impact",
+            "gold": 8400,
+            "album_key": "LowcostDanHipp",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 65,
+                    "variant_key": "Agent13_06",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b09b8cc3-9a8d-4962-a946-d2db57648600/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 249,
+                    "variant_key": "Bast_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0b47d4a7-e29a-43b4-c3f6-0a39420deb00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 931,
+                    "variant_key": "Elektra_09",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f1f0aed7-b409-458b-3bde-073a9992ae00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1391,
+                    "variant_key": "Iceman_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8bc5b660-6ef6-4085-5582-b3f6e0bef200/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 1650,
+                    "variant_key": "KittyPryde_07",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3d0f2d6c-d7e2-47be-cb7d-eccbb8d9b600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1689,
+                    "variant_key": "Korg_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/638f9667-3855-41f6-9ae1-79ff0c4a3b00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2201,
+                    "variant_key": "Nebula_04",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a588349a-e7b7-4efc-0f13-0bdd3b6bde00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2245,
+                    "variant_key": "Nightcrawler_06",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/cf1c04a5-9283-4073-37fa-4431b8426200/public",
+                    "card_series": "Series0"
+                },
+                {
+                    "variant_id": 2416,
+                    "variant_key": "Quicksilver_06",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a24e6f29-4a55-4aa8-2017-b566ec351800/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 2956,
+                    "variant_key": "Sunspot_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ce75a2b6-b952-4bfe-f831-d596d14aee00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 3110,
+                    "variant_key": "Titania_04",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/28cbfa14-dd32-46d7-7b09-364fdb833f00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3352,
+                    "variant_key": "X23_07",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f1a72ee8-0813-4545-ead1-620c0f767b00/public",
+                    "card_series": "Series4"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "album_name": "Luca These Variants",
+            "gold": 11900,
+            "album_key": "LucaTheseVariants",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 382,
+                    "variant_key": "Blade_03",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/32f9e1cb-62c5-45cf-2709-cbd354d51400/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 868,
+                    "variant_key": "Dracula_10",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8d81d665-2470-4d85-7123-05e9fb560b00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1146,
+                    "variant_key": "Goose_03",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7bba3097-9421-4df3-4f6a-ab00c92bc800/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1259,
+                    "variant_key": "Hellcow_02",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b56552dc-0ad9-4b8c-5264-f05873220b00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1304,
+                    "variant_key": "Hood_03",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/921fe042-baab-4663-2321-0c5b651f6000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1688,
+                    "variant_key": "Korg_04",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4a397d53-270f-49c9-2150-5ced73c3ee00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1777,
+                    "variant_key": "Lockjaw_04",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/779fda17-5791-4b32-7efd-eb9972ccba00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2113,
+                    "variant_key": "MrSinister_03",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2727b817-98e8-4bd2-302f-a8d06850df00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2156,
+                    "variant_key": "Mystique_03",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c6172738-28c9-4f42-afee-8a6942283600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2300,
+                    "variant_key": "OmegaRed_03",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/616a12e1-4786-4b5d-b4ce-52b964fabe00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2673,
+                    "variant_key": "ShadowKing_02",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3bf17ea5-ea65-497c-3209-76ce74bb9d00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2816,
+                    "variant_key": "Speed_04",
+                    "variant_label": "Luca Claretti",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/dbc56e8c-2a3a-42a7-b2da-bb57b22f2b00/public",
+                    "card_series": "Series5"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "album_name": "Mafayon’s Masterpieces",
+            "gold": 14400,
+            "album_key": "PaulMafayonAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 942,
+                    "variant_key": "Elixir_06",
+                    "variant_label": "Paul Mafayon",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e7a82357-a6d6-4c74-f34e-dbf96b03e000/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 972,
+                    "variant_key": "EsmeCuckoo_06",
+                    "variant_label": "Paul Mafayon",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ac2d4065-48af-433d-5f4c-61a029133000/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1265,
+                    "variant_key": "Hellion_04",
+                    "variant_label": "Paul Mafayon",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d5ff37fe-46e2-4bec-a190-2e43d4aa3100/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1938,
+                    "variant_key": "Mercury_04",
+                    "variant_label": "Paul Mafayon",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b5e80841-66ad-472e-f94c-5c8fea6a7900/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 2363,
+                    "variant_key": "Prodigy_04",
+                    "variant_label": "Paul Mafayon",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/6c1b80e6-a738-4abd-ab96-6c277b4d0a00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2980,
+                    "variant_key": "Surge_05",
+                    "variant_label": "Paul Mafayon",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7ba58b02-1fac-48eb-57c5-c780c24ee100/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 3368,
+                    "variant_key": "Xorn_05",
+                    "variant_label": "Paul Mafayon",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e6e48410-c696-45a9-5593-918762be2a00/public",
+                    "card_series": "Series5"
+                }
+            ]
+        }
+    ]
+}

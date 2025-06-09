@@ -29,7 +29,7 @@ export const MainPage = () => {
     const carregarTodosAlbuns = async () => {
       const albunsTemp: Album[] = [];
 
-      for (let i = 1; i <= 5; i++) {
+      for (let i = 1; i <= 9; i++) {
         try {
           const res = await fetch(`/data/albums-${i}.json`);
           const json = await res.json();
@@ -59,7 +59,7 @@ export const MainPage = () => {
     <>
       <CabecalhoPagina />
       <main className="container mx-auto px-4 py-8 mb-auto">
-        <h1 className="text-3xl font-semibold font-display mb-10 text-[#000]">
+        <h1 className="text-4xl font-display mb-10 text-white ">
           Album de Cartas do Marvel Snap
         </h1>
         <div className="flex flex-wrap gap-4 items-end mb-14 justify-space-between">
@@ -72,11 +72,11 @@ export const MainPage = () => {
               onChange={(e: { target: { value: SetStateAction<string> } }) =>
                 setAlbumSelecionado(e.target.value)
               }
-              className="w-60 p-4 border border-purple-800 rounded-md bg-white text-gray-800 outline-none"
+              className="bg-[#1e1e2f] w-70 p-4 border border-purple-800 rounded-md text-white outline-none cursor-pointer tracking-wide shadow-xl focus:border-pink-400"
             >
-              <option value="">Selecione Um Album</option>
+              <option value="" className="text-white focus:font-display">Selecione Um Album</option>
               {todosAlbuns.map((album) => (
-                <option key={album.album_key} value={album.album_key}>
+                <option className="text-white tracking-wide focus:font-display" key={album.album_key} value={album.album_key}>
                   {album.album_name}
                 </option>
               ))}

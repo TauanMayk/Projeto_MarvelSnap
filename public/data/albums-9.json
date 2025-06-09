@@ -1,0 +1,362 @@
+{
+    "page": 9,
+    "total_pages": 15,
+    "next": 10,
+    "previous": 8,
+    "data": [
+        {
+            "id": 33,
+            "album_name": "Near, Farro, Wherever You Are-o",
+            "gold": 14400,
+            "album_key": "ViktorFarroAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 377,
+                    "variant_key": "BlackWidow_18",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5c38e167-ac96-463e-c797-ee69e1f11d00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 990,
+                    "variant_key": "FenrisWolf_03",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/9aa205ef-bb0a-4645-a174-3e2f7ffb0000/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1013,
+                    "variant_key": "Frigga_03",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7a97f052-98cc-4115-6ed5-d4dfe9fd8600/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1160,
+                    "variant_key": "Gorr_08",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/426a7005-2b45-4578-d3fd-0c5e8f157d00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1459,
+                    "variant_key": "IronLad_11",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0f936282-27c5-4da3-2e8b-db91672dfd00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1483,
+                    "variant_key": "IronMan_23",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3ec9496a-a78b-43a0-aa04-a94b9b680000/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 1869,
+                    "variant_key": "Malekith_03",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4f034cb4-88b4-444c-1c7b-e313edfb4900/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2135,
+                    "variant_key": "MsMarvel_14",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/af2f0173-0976-4017-9356-9ef623558000/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 2432,
+                    "variant_key": "RavonnaRenslayer_07",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3ee59c8e-b8e0-4f28-f69a-1f0dafd2a900/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 2500,
+                    "variant_key": "Rockslide_09",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f3435753-24a7-4e0c-5ba7-33bd60f19a00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2690,
+                    "variant_key": "ShangChi_12",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/627ccec0-e243-46af-bee2-70432dd46b00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2985,
+                    "variant_key": "Surtur_04",
+                    "variant_label": "Viktor Farro",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/aa8a004d-95af-476a-f3ea-aaca90d00700/public",
+                    "card_series": "Series5"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "album_name": "Nightmare Before Knullmas",
+            "gold": 10800,
+            "album_key": "KnullifiedAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 368,
+                    "variant_key": "BlackWidow_06",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b1c91126-e047-4aeb-408a-036933a73500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 502,
+                    "variant_key": "CaptainAmerica_09",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a720499b-b4aa-4000-9c00-1e74df1de000/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 699,
+                    "variant_key": "Daredevil_05",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/6cf3fa3b-60c9-434a-1ea2-a0ce0eaa1200/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1084,
+                    "variant_key": "GhostRider_08",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/301c9077-62f5-42eb-adaa-4c6e8f9be300/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1470,
+                    "variant_key": "IronMan_09",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/567d93e1-0da6-4c5d-893e-4f2de9b21b00/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 2686,
+                    "variant_key": "ShangChi_08",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d62170cd-31fb-4729-8110-8a29f8663a00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2869,
+                    "variant_key": "SpiderWoman_06",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e40bdd36-d2cb-481f-2b36-07b124482c00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2923,
+                    "variant_key": "Storm_08",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/6ca50d7f-9224-41d9-b6c4-b51718dfbe00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 3076,
+                    "variant_key": "TheThing_08",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/855a505b-f365-439c-d744-988acc235300/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 3090,
+                    "variant_key": "Thor_07",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b4a6c141-8d80-4fcf-0793-d010c0612100/public",
+                    "card_series": "Series3"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "album_name": "No One RIVALS Doom",
+            "gold": 14400,
+            "album_key": "MarvelRivalsAlbum1",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 1485,
+                    "variant_key": "IronMan_29",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c77fc606-868a-4394-4b9c-7182e1caf500/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 1536,
+                    "variant_key": "JeffTheBabyLandShark_18",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/6d9980bb-4370-41ed-ddf6-125c7ecfeb00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1796,
+                    "variant_key": "Loki_15",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/fcf470bf-33b2-4cbc-8f81-922c088cbf00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1840,
+                    "variant_key": "Magik_23",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/00d230c0-829e-41a0-2ea7-79b939626600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1891,
+                    "variant_key": "Mantis_11",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b82fc1b1-0d81-443d-3518-e279f3117100/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2189,
+                    "variant_key": "Namor_14",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5b44f8b0-f39e-4f54-1990-53f913b0dd00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2403,
+                    "variant_key": "Punisher_09",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/eb094872-8d1e-4281-ee05-05d9a567f800/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 2592,
+                    "variant_key": "ScarletWitch_26",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8dc43a4c-ee93-4990-2cdc-3f913dac0b00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2851,
+                    "variant_key": "SpiderMan_29",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e11dc12a-4b0a-4675-fb83-7ebca609c000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2900,
+                    "variant_key": "Starlord_12",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c9c5242c-b600-42d2-ab21-f2481050ff00/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 2937,
+                    "variant_key": "Storm_26",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/450a738c-b665-400b-f8b5-3052e64bdf00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 3185,
+                    "variant_key": "Venom_24",
+                    "variant_label": "Marvel RIVALS",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/987ae52e-fb90-42b3-c120-5ac430064900/public",
+                    "card_series": "Series3"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "album_name": "Oops, All Chibis",
+            "gold": 14400,
+            "album_key": "ChibiRian",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 669,
+                    "variant_key": "Cyclops_08",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e73653e8-1661-447c-732f-0b26078e9100/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 867,
+                    "variant_key": "Dracula_09",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2bacd1c9-c2ee-4534-07a8-503be28ed300/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 930,
+                    "variant_key": "Elektra_08",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/30e1e990-b3fc-4f09-86b3-b560f4913800/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1006,
+                    "variant_key": "Forge_06",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8eed4b49-af3e-44f2-c326-0733a20b3800/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1441,
+                    "variant_key": "Ironheart_06",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/24421541-42e4-4b2d-5e1d-d2ce7b0e0a00/public",
+                    "card_series": "Recruit"
+                },
+                {
+                    "variant_id": 1956,
+                    "variant_key": "MilesMorales_10",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/92e5e20c-429d-495f-0f52-439af431f600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2107,
+                    "variant_key": "MrNegative_06",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f2f33683-dc9e-474c-8a7f-264a5285a800/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2160,
+                    "variant_key": "Mystique_07",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2811f9cc-68be-4d6b-7c31-71972fe52400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2417,
+                    "variant_key": "Quicksilver_07",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ee7112f4-1807-409d-7b23-aaba349a2400/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 2924,
+                    "variant_key": "Storm_09",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7ca962d2-d0aa-422f-6da2-76ef4eda1400/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2959,
+                    "variant_key": "Sunspot_09",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5751326c-6e9a-44f2-dbb6-a2c9b9dd8f00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 3320,
+                    "variant_key": "Wolverine_08",
+                    "variant_label": "Chibi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/fd0600ad-d831-4664-0aac-9a3d4150da00/public",
+                    "card_series": "Series1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "page": 6,
+    "total_pages": 15,
+    "next": 7,
+    "previous": 5,
+    "data": [
+        {
+            "id": 21,
+            "album_name": "Hellfire Gala",
+            "gold": 14400,
+            "album_key": "HellfireGala",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 289,
+                    "variant_key": "Bishop_10",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/247b62d6-5bf2-4b8b-cbb6-91c1ef9dbf00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 340,
+                    "variant_key": "BlackPanther_11",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ae3f9667-b124-479a-4cd1-95e46eebdd00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 507,
+                    "variant_key": "CaptainAmerica_15",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5e61a1f6-6d01-49ee-8c79-49fb84471800/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 888,
+                    "variant_key": "DrDoom_11",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/654c0692-a590-47f0-509a-d473066c1200/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1007,
+                    "variant_key": "Forge_07",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/df7889d8-a19e-486c-e52c-7e6ae649ff00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1048,
+                    "variant_key": "Gambit_09",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4d18f214-6828-419b-4c46-5e0858baf500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1518,
+                    "variant_key": "JeanGrey_13",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/aa21ad0a-28d0-4ff8-d871-76b698878900/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1834,
+                    "variant_key": "Magik_15",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/19b1eaa5-1196-498f-9ab6-d157a0205400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2057,
+                    "variant_key": "MoonKnight_11",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0a6d79b0-3e64-4bbb-8389-e7b67bfb2b00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2513,
+                    "variant_key": "Rogue_11",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/199e09c9-695b-4c3e-672a-32fdd944da00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2584,
+                    "variant_key": "ScarletWitch_10",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d84471a8-3f04-47f3-f76d-43bde803cf00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2711,
+                    "variant_key": "SheHulk_11",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/fcd2562c-64f1-4d1e-ba69-25997847bc00/public",
+                    "card_series": "Series3"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "album_name": "I Am Ivan Fan",
+            "gold": 11400,
+            "album_key": "MichalIvanAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 142,
+                    "variant_key": "Annihilus_11",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0741883a-ae7a-45b0-45cb-6770c4d0e300/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 721,
+                    "variant_key": "Darkhawk_14",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0331c9a0-7c3e-4da4-712d-c6b440d6f000/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 824,
+                    "variant_key": "DoctorOctopus_10",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b01b4f81-d749-4cde-3506-121adf413600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 921,
+                    "variant_key": "Electro_09",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0e28ef43-5de9-472a-833d-fad2457e7500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1136,
+                    "variant_key": "Gladiator_07",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c7053de9-35bd-48eb-5dad-4704bbd1af00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1168,
+                    "variant_key": "GrandMaster_08",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b5e7f16e-968a-4092-4506-2158c3615e00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 1246,
+                    "variant_key": "Hela_11",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3ebefeae-f3e0-461e-acc1-947ec0817c00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1682,
+                    "variant_key": "Knull_14",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7e6aa604-9125-4624-c51f-ffa64ad95300/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2022,
+                    "variant_key": "Modok_11",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d8192a65-e713-498e-6426-d20ff2a1b000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2077,
+                    "variant_key": "Morbius_08",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a87bf122-8200-4edb-d13a-a8c4d7929d00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2440,
+                    "variant_key": "RedGuardian_08",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/211de281-874f-4a51-c49c-82c683f15000/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2610,
+                    "variant_key": "Scorpion_07",
+                    "variant_label": "Michal Ivan",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3e65c0dd-1f97-4617-2da0-64c13822cc00/public",
+                    "card_series": "Series2"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "album_name": "Jim Lee X-Men",
+            "gold": 11900,
+            "album_key": "JimLeeXMen",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 286,
+                    "variant_key": "Bishop_07",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0ad6d068-66d7-443f-15ca-5adb5d254800/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 601,
+                    "variant_key": "Colossus_06",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4d4bd380-a880-4dc1-50e8-c9d44cc5f300/public",
+                    "card_series": "Recruit"
+                },
+                {
+                    "variant_id": 663,
+                    "variant_key": "Cyclops_02",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/58264b9b-50fa-4c40-9aa8-5833ce5d2a00/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 851,
+                    "variant_key": "Domino_07",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/427e7796-684e-45fa-0b6f-29dc154fc300/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1831,
+                    "variant_key": "Magik_12",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/9baddd43-a105-45b5-a095-a06e68277f00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1853,
+                    "variant_key": "Magneto_09",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b178bd03-d3e0-4756-8c3c-deeb8934d600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2162,
+                    "variant_key": "Mystique_09",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/af201225-74b9-4b87-4373-372a16ce8f00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2371,
+                    "variant_key": "ProfessorX_06",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a37c2894-861d-47d8-577d-ef58cc3bf500/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2510,
+                    "variant_key": "Rogue_08",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8710423b-79b3-4c20-ee03-fb809a967e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2534,
+                    "variant_key": "Sabretooth_10",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/42066cb9-1b6f-4ffa-0fa4-da493bcc9300/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2926,
+                    "variant_key": "Storm_11",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f0319521-cbbd-4caa-1ab6-b47b9aa7ee00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 3277,
+                    "variant_key": "WhiteQueen_08",
+                    "variant_label": "Jim Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/90ccd3f5-3b36-49be-dcca-23311f96b600/public",
+                    "card_series": "Series1"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "album_name": "JTC Negative Space",
+            "gold": 5600,
+            "album_key": "NegativeSpaceAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 393,
+                    "variant_key": "Blade_18",
+                    "variant_label": "Negative Space",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/499fba01-01fa-4d05-b8a8-39dbd901f700/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1484,
+                    "variant_key": "IronMan_24",
+                    "variant_label": "Negative Space",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0e8c14f8-db60-456e-f464-c131c7394500/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 1858,
+                    "variant_key": "Magneto_16",
+                    "variant_label": "Negative Space",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5bcce497-714e-497b-4cc8-f879752a3f00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1966,
+                    "variant_key": "MilesMorales_22",
+                    "variant_label": "Negative Space",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3919a2c1-e8e2-4b48-2d30-c2e6c8543400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2136,
+                    "variant_key": "MsMarvel_15",
+                    "variant_label": "Negative Space",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3dfdea57-bd74-4478-22ea-9ea8d8a79c00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 3037,
+                    "variant_key": "Thanos_14",
+                    "variant_label": "Negative Space",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d3dfed15-8ae6-431f-123d-c0d679e9db00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 3213,
+                    "variant_key": "Vision_07",
+                    "variant_label": "Negative Space",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d49fad27-617e-4bd9-de8d-e72db7ed1100/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 3267,
+                    "variant_key": "WerewolfByNight_10",
+                    "variant_label": "Negative Space",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a43a3291-87dd-48f3-db22-986358ec6b00/public",
+                    "card_series": "Series4"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "page": 8,
+    "total_pages": 15,
+    "next": 9,
+    "previous": 7,
+    "data": [
+        {
+            "id": 29,
+            "album_name": "Max Grecke Heroes",
+            "gold": 8900,
+            "album_key": "MaxGreckeHeroes",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 334,
+                    "variant_key": "BlackPanther_05",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ab6b365e-7e08-4700-51aa-5010a013e500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 419,
+                    "variant_key": "BlueMarvel_06",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c04ea20e-bd82-47b5-d723-17599b682d00/public",
+                    "card_series": "Recruit"
+                },
+                {
+                    "variant_id": 738,
+                    "variant_key": "Deadpool_06",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/104d70a7-a521-4f08-f2a8-cd802953eb00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 781,
+                    "variant_key": "Debrii_08",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/82f201cb-9315-4a15-1a91-e2e820642000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1333,
+                    "variant_key": "Hulk_03",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a8e122c2-5311-48cb-1471-50d046480b00/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 1443,
+                    "variant_key": "Ironheart_08",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/bc32c61f-1a30-4acf-9fae-d29105310900/public",
+                    "card_series": "Recruit"
+                },
+                {
+                    "variant_id": 2583,
+                    "variant_key": "ScarletWitch_08",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/97e528e2-3d22-4a12-d268-7f0c3680d400/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2658,
+                    "variant_key": "Sera_07",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/82e9320d-017a-458b-8659-d9b57ba15100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2775,
+                    "variant_key": "SilverSurfer_05",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/6fa7754c-ee36-4f94-56c2-1c35063d0a00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3087,
+                    "variant_key": "Thor_04",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b3e4085e-36f5-43c7-0376-ea61fd881000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3212,
+                    "variant_key": "Vision_06",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/34a3bed0-fb9f-46e0-fc52-da399aa0af00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 3317,
+                    "variant_key": "Wolverine_05",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0f3292fb-b8fe-4907-0fcc-42f074c7f500/public",
+                    "card_series": "Series1"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "album_name": "Midnight Suns",
+            "gold": 9600,
+            "album_key": "MidnightSuns",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 389,
+                    "variant_key": "Blade_11",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/deafb996-86b7-4574-a506-5de1377c4500/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 508,
+                    "variant_key": "CaptainAmerica_16",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7bbc4ba9-74aa-478b-9610-5715f124d900/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 534,
+                    "variant_key": "CaptainMarvel_13",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ed6af42e-cfa2-4e13-32bf-f434d241c500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 837,
+                    "variant_key": "DoctorStrange_13",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b6667fd6-16b6-4229-88f5-7f160bfbbc00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2235,
+                    "variant_key": "NicoMinoru_07",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/11f86dee-9e34-41b6-97af-d436179ea000/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2585,
+                    "variant_key": "ScarletWitch_12",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/dd677793-3f59-4a21-42c6-339accf72600/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2843,
+                    "variant_key": "SpiderMan_14",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/20344ae3-22f2-4b2c-9327-eacd7ac58d00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3323,
+                    "variant_key": "Wolverine_12",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f3fadc98-2fef-425a-965f-8f31813f2000/public",
+                    "card_series": "Series1"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "album_name": "Miss America",
+            "gold": 5900,
+            "album_key": "AmericaChavezCharacterAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 97,
+                    "variant_key": "AmericaChavez_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3e8cbaca-e3d5-41ce-1f31-718c3d74b700/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 98,
+                    "variant_key": "AmericaChavez_02",
+                    "variant_label": "Jamie McKelvie",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8f697180-bcb7-469f-ada1-27ff9f033700/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 99,
+                    "variant_key": "AmericaChavez_03",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4422a534-0519-409a-7a37-b4988fe86500/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 100,
+                    "variant_key": "AmericaChavez_04",
+                    "variant_label": "Marguerite Sauvage",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3337888f-bb17-4814-379f-fd98b9f19800/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 101,
+                    "variant_key": "AmericaChavez_05",
+                    "variant_label": "Rian Gonzales",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5fa4000c-a906-4621-0f5d-53509e721200/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 102,
+                    "variant_key": "AmericaChavez_06",
+                    "variant_label": "Venomized",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/217f6554-0525-4f70-d4fa-65ed864ba500/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 103,
+                    "variant_key": "AmericaChavez_07",
+                    "variant_label": "Stefano Caselli",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f26c2f45-d890-4180-86a8-5882cad5eb00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 104,
+                    "variant_key": "AmericaChavez_08",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c97dcc96-afc6-4537-da72-0770f1720500/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 108,
+                    "variant_key": "AmericaChavez_16",
+                    "variant_label": "Flaviano",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/314565c1-eb7e-462f-5190-feb9be953a00/public",
+                    "card_series": "Series1"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "album_name": "Move Your Hipps",
+            "gold": 8400,
+            "album_key": "MoveDanHipp",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 40,
+                    "variant_key": "Aero_07",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d7552692-81c8-4507-ac5f-7dbfff5d0500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 583,
+                    "variant_key": "Cloak_07",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3fc65706-0720-431a-15e8-664c36743f00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 683,
+                    "variant_key": "Dagger_07",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5622c143-99dc-42bc-7928-54e38b06f400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1232,
+                    "variant_key": "Heimdall_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f3a7e3d6-758c-4824-4463-72413fe84300/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1267,
+                    "variant_key": "Hercules_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/563b3265-5d61-435b-d098-7c4c7c451100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1848,
+                    "variant_key": "Magneto_04",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/474a1840-0699-45ac-f3bc-907336edd900/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1943,
+                    "variant_key": "Miek_02",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3ec6c2de-cbe4-4cac-d564-1c89b6af1e00/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 2143,
+                    "variant_key": "MultipleMan_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5d55c20b-9f66-47e9-e7a6-2ab86bb68700/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2861,
+                    "variant_key": "SpiderMan2099_07",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/356bc885-c3e7-4614-d7ed-6bfd06e2c600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2838,
+                    "variant_key": "SpiderMan_06",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/336145fd-3673-4511-9f93-08bbf97f1e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3210,
+                    "variant_key": "Vision_04",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/cd7253a1-f865-41ff-38da-8cc8fb4a4d00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 3228,
+                    "variant_key": "WarMachine_05",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8095b306-c4b0-42b7-1f03-03ef082d3600/public",
+                    "card_series": "Series5"
+                }
+            ]
+        }
+    ]
+}

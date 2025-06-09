@@ -55,9 +55,9 @@ export const CartasSnap: React.FC<CardSnapProps> = ({ carta }) => {
             className="w-full object-cover h-auto z-10 relative"
           />
         </div>
-        <div className="text-xl font-extrabold text-center tracking-wide text-[#bffeff] drop-shadow-[2px_2px_0_#000] uppercase leading-tight">
+        <div className="text-xl font-bold text-center tracking-wide text-[#e2feff] drop-shadow-[2px_2px_0_#000] uppercase leading-tight border-indigo-400 border-x-2 rounded-md">
           {carta.variant_key.split("_")[0]}
-          <h2 className="text-xl italic text-center">{carta.variant_label}</h2>
+          <h2 className="text-xl italic text-center tracking-wide border-t-2 border-t-gray-100/75">{carta.variant_label}</h2>
         </div>
       </li>
     </>

@@ -8,3 +8,10 @@
 @theme {
     --font-display: "CC_ultimate", "sans-serif";
 }
+
+select:focus {
+    font-family: "CC_ultimate";
+  border-color: #a29bfe;
+  box-shadow: 0 0 0 3px rgba(108, 92, 231, 0.3);
+  cursor: pointer;
+}
