@@ -1,4 +1,5 @@
 import "./cartas.css";
+import { motion } from "framer-motion";
 import React from "react";
 
 interface Carta {
@@ -37,7 +38,10 @@ const corDaSerie = (serie: string): string => {
 export const CartasSnap: React.FC<CardSnapProps> = ({ carta }) => {
   return (
     <>
-      <li
+      <motion.li
+        initial={{ opacity: 0, y: 30 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5, delay: 0.05 }}
         className="bg-gradient-to-b from-[#0c0f1a] to-[#1a1d2e] text-white rounded-lg shadow-xl w-full max-w-sm mx-auto font-sans relative overflow-hidden"
         key={carta.variant_id}
       >
@@ -49,17 +53,22 @@ export const CartasSnap: React.FC<CardSnapProps> = ({ carta }) => {
           {carta.card_series}
         </div>
         <div className="border-4 border-gray-700 rounded-md overflow-hidden mb-3 mt-6">
-          <img
+          <motion.img
             srcSet={carta.Image}
             alt={carta.variant_label}
             className="w-full object-cover h-auto z-10 relative"
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.98 }}
+            transition={{ type: "spring", stiffness: 300 }}
           />
         </div>
-        <div className="text-xl font-bold text-center tracking-wide text-[#e2feff] drop-shadow-[2px_2px_0_#000] uppercase leading-tight border-indigo-400 border-x-2 rounded-md">
+        <div className="text-lg font-bold text-center tracking-wide text-[#97feff] drop-shadow-[2px_2px_0_#000] uppercase leading-tight border-indigo-400 border-x-2 rounded-md transition duration-150 ease-in hover:text-yellow-600">
           {carta.variant_key.split("_")[0]}
-          <h2 className="text-xl italic text-center tracking-wide border-t-2 border-t-gray-100/75">{carta.variant_label}</h2>
+          <h2 className="text-base italic text-center tracking-wide border-t-2 border-t-gray-100/75">
+            {carta.variant_label}
+          </h2>
         </div>
-      </li>
+      </motion.li>
     </>
   );
 };
