@@ -1,6 +1,7 @@
 import "./cartas.css";
 import { motion } from "framer-motion";
 import React from "react";
+import Fancybox from "../FancyBox/FancyBox";
 
 interface Carta {
   variant_id: number;
@@ -53,14 +54,25 @@ export const CartasSnap: React.FC<CardSnapProps> = ({ carta }) => {
           {carta.card_series}
         </div>
         <div className="border-4 border-gray-700 rounded-md overflow-hidden mb-3 mt-6">
-          <motion.img
-            srcSet={carta.Image}
-            alt={carta.variant_label}
-            className="w-full object-cover h-auto z-10 relative"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.98 }}
-            transition={{ type: "spring", stiffness: 300 }}
-          />
+          <Fancybox
+            options={{
+              Carousel: {
+                infinite: false,
+              },
+            }} 
+            delegate={""}
+            >
+            <a href={carta.Image} data-fancybox="gallery">
+              <motion.img
+                srcSet={carta.Image}
+                alt={carta.variant_label}
+                className="w-full object-cover h-auto z-10 relative"
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.98 }}
+                transition={{ type: "spring", stiffness: 300 }}
+              />
+            </a>
+          </Fancybox>
         </div>
         <div className="text-lg font-bold text-center tracking-wide text-[#97feff] drop-shadow-[2px_2px_0_#000] uppercase leading-tight border-indigo-400 border-x-2 rounded-md transition duration-150 ease-in hover:text-yellow-600">
           {carta.variant_key.split("_")[0]}
