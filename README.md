@@ -21,6 +21,7 @@ Um projeto visual e interativo desenvolvido com **React + TypeScript**, onde os 
 - **Tailwind CSS** 
 - **Bootstrap Icons** 
 - **HTML5 / CSS3**
+- **Fancy-Box**
 
 ---
 
