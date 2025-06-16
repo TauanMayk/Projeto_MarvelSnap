@@ -1,0 +1,411 @@
+{
+    "page": 13,
+    "total_pages": 15,
+    "next": 14,
+    "previous": 12,
+    "data": [
+        {
+            "id": 49,
+            "album_name": "Terrific Tarot",
+            "gold": 14400,
+            "album_key": "TerrificTarots",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 744,
+                    "variant_key": "Deadpool_12",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/c1c49407-0513-49cd-937d-7a9158323900/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 762,
+                    "variant_key": "Death_09",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/996987a9-4c72-4cb4-5d48-17b0e00b2900/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 887,
+                    "variant_key": "DrDoom_10",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ededc077-fb9c-4a12-8358-dfbca15a4e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1034,
+                    "variant_key": "Galactus_11",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/378c166b-6bb0-4298-b61f-84a66ef01c00/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 1370,
+                    "variant_key": "HumanTorch_11",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a8f76f37-ad87-4af5-18b5-34f8701a9c00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1519,
+                    "variant_key": "JeanGrey_14",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a12161b7-a489-47b9-eb41-ec700dadcd00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2056,
+                    "variant_key": "MoonKnight_10",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/bc85f8b1-1e24-4c8d-a50a-0473184be000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2276,
+                    "variant_key": "Nova_08",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a4c19cca-8498-487e-ba5e-b0449087ea00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2375,
+                    "variant_key": "ProfessorX_10",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/eec5964b-f945-45c9-4889-36cd99d5cd00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2712,
+                    "variant_key": "SheHulk_12",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/bb5eca23-f1da-49e9-3b9a-1bb6c59a9f00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2778,
+                    "variant_key": "SilverSurfer_09",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/4d9d9f69-cf19-4e50-b1ef-64f565554100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2928,
+                    "variant_key": "Storm_13",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/bb84f73b-1b6e-4403-c0d2-20ef0706c900/public",
+                    "card_series": "Series2"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "album_name": "The Gang's All Here",
+            "gold": 8400,
+            "album_key": "SpideyVillians",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 917,
+                    "variant_key": "Electro_03",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5a84e3c2-35dd-434b-fb95-7b119f576c00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1296,
+                    "variant_key": "Hobgoblin_03",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/ca0cdec0-ed37-4436-7037-4b518fedd600/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 1696,
+                    "variant_key": "Kraven_04",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0c47568d-75a2-48e3-2eaa-994aae3e8f00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2104,
+                    "variant_key": "MrNegative_03",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f377bc4d-9288-4150-04df-950f5b739e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2473,
+                    "variant_key": "Rhino_03",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/60a30d0f-b567-487c-c13c-c6bc41637600/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2554,
+                    "variant_key": "Sandman_04",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5edaf20b-628f-42da-cf6f-cda355d50c00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2608,
+                    "variant_key": "Scorpion_04",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/fb59de47-4220-4b80-436a-1227d9de4800/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2724,
+                    "variant_key": "Shocker_03",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f588326b-f7c5-46e0-5068-29ee94d1dc00/public",
+                    "card_series": "Starter"
+                },
+                {
+                    "variant_id": 2756,
+                    "variant_key": "SilverSable_02",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b8a5ff5e-b8bc-499d-0a4a-8885ac7ab700/public",
+                    "card_series": "Series5"
+                },
+                {
+                    "variant_id": 2762,
+                    "variant_key": "SilverSamurai_02",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/9b0363fc-c5c8-4f87-cf73-930437a13600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2991,
+                    "variant_key": "Swarm_04",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/879ab37d-a866-46ea-45b5-dd937b294d00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 3223,
+                    "variant_key": "Vulture_04",
+                    "variant_label": "Nikola Čižmešija",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/63f38cb0-1808-4c7d-8ef5-5476971f5500/public",
+                    "card_series": "Series2"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "album_name": "Trippy Surfer",
+            "gold": 14400,
+            "album_key": "VincenzoRiccardi",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 20,
+                    "variant_key": "AbsorbingMan_09",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/b952ce16-827f-41b0-9188-3d4142119600/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 109,
+                    "variant_key": "AmericaChavez_17",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/481b93d6-ac74-499c-3efd-64ce90fc9300/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 432,
+                    "variant_key": "Brood_10",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/51f39afe-76f7-44b7-7b03-f7fde1afc700/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1008,
+                    "variant_key": "Forge_09",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/08bcf825-8eb0-4280-3953-6f577ed1f700/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 1583,
+                    "variant_key": "Juggernaut_17",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7b0d7bd6-c759-4f7f-1cb2-8be752433f00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 1632,
+                    "variant_key": "Killmonger_11",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/7847661e-1f09-4728-bb17-9e4feda64100/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2175,
+                    "variant_key": "Nakia_07",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a259cd2d-f8c0-47b5-9767-118dcfcc5700/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2277,
+                    "variant_key": "Nova_10",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a855bd23-1d1d-477e-cd57-ca44b7e64b00/public",
+                    "card_series": "Series1"
+                },
+                {
+                    "variant_id": 2296,
+                    "variant_key": "Okoye_10",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/571da776-3c3f-432c-dd1e-982b3e641a00/public",
+                    "card_series": "Series2"
+                },
+                {
+                    "variant_id": 2358,
+                    "variant_key": "Polaris_10",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/cc462215-d532-43c0-4cda-6ee3965f5e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2623,
+                    "variant_key": "SebastianShaw_07",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/95b9b2e9-bd10-40b1-185f-018d891d4200/public",
+                    "card_series": "Series4"
+                },
+                {
+                    "variant_id": 2663,
+                    "variant_key": "Sera_13",
+                    "variant_label": "Vincenzo Riccardi",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f5e7e4c7-3be0-4f53-bf71-9a4779abcc00/public",
+                    "card_series": "Series3"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "album_name": "Twilight of the Thunder God",
+            "gold": 8100,
+            "album_key": "ThorCharacterAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 3088,
+                    "variant_key": "Thor_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8f081b08-6671-45c1-aef2-0d692c1a1400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3089,
+                    "variant_key": "Thor_02",
+                    "variant_label": "Olivier Coipel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a47dd72f-3217-4dd6-8f7f-c2fcf27e3100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3090,
+                    "variant_key": "Thor_03",
+                    "variant_label": "Baby",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f5940773-af75-4d70-2a47-230968d44700/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3091,
+                    "variant_key": "Thor_04",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/523c2c89-97da-4b74-99c2-8f82d6c7c700/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3092,
+                    "variant_key": "Thor_05",
+                    "variant_label": "Phoenix Force",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/73163536-afe6-45e8-c907-306656e68d00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3093,
+                    "variant_key": "Thor_06",
+                    "variant_label": "Iron Hammer",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5b49892e-0106-4989-c2e5-b45506f14500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3094,
+                    "variant_key": "Thor_07",
+                    "variant_label": "Knullified",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/28278fab-513c-435b-c9c0-fa209c25ec00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3095,
+                    "variant_key": "Thor_08",
+                    "variant_label": "Throg",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/96f1c8cc-491a-4b79-4e46-6caf03ac7800/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3096,
+                    "variant_key": "Thor_09",
+                    "variant_label": "Peach Momoko",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/44ce4342-9a1d-4ad2-5589-880e2572a400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3097,
+                    "variant_key": "Thor_10",
+                    "variant_label": "Venomized",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/475274b8-c33e-44fb-81f4-cb235ef1a900/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3098,
+                    "variant_key": "Thor_11",
+                    "variant_label": "Pantheon",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2aa075ed-573f-4cf4-d464-76ecb32f9e00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3099,
+                    "variant_key": "Thor_12",
+                    "variant_label": "Hellfire Gala",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/d000fc22-3764-4b2d-59ae-05e185e51200/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3100,
+                    "variant_key": "Thor_13",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/454ab115-527e-423d-1729-6853ba037500/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3101,
+                    "variant_key": "Thor_14",
+                    "variant_label": "Mateus Manhanini",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/893b4db8-9836-430e-98f7-a640c9c41700/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3102,
+                    "variant_key": "Thor_16",
+                    "variant_label": "In-Hyuk Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/858fef91-8fdd-447f-ae70-146a509fa800/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3103,
+                    "variant_key": "Thor_18",
+                    "variant_label": "Peach Momoko Nightmare",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/fc89fd1d-cd68-4fd8-3e43-d99b45386300/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 3106,
+                    "variant_key": "Thor_21",
+                    "variant_label": "Andrea Guardino",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/0134e1b5-40ca-4e31-cfd2-bfa40a23fd00/public",
+                    "card_series": "Series3"
+                }
+            ]
+        }
+    ]
+}
