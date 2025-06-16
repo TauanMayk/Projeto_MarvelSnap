@@ -59,9 +59,9 @@ export const CartasSnap: React.FC<CardSnapProps> = ({ carta }) => {
               Carousel: {
                 infinite: false,
               },
-            }} 
+            }}
             delegate={""}
-            >
+          >
             <a href={carta.Image} data-fancybox="gallery">
               <motion.img
                 srcSet={carta.Image}
