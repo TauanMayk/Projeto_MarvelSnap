@@ -30,7 +30,7 @@ export const MainPage = () => {
     const carregarTodosAlbuns = async () => {
       const albunsTemp: Album[] = [];
 
-      for (let i = 1; i <= 13; i++) {
+      for (let i = 1; i <= 15; i++) {
         try {
           const res = await fetch(`/data/albums-${i}.json`);
           const json = await res.json();

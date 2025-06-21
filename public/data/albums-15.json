@@ -1,0 +1,100 @@
+{
+    "page": 15,
+    "total_pages": 15,
+    "next": null,
+    "previous": 14,
+    "data": [
+        {
+            "id": 57,
+            "album_name": "With Great Power",
+            "gold": 6900,
+            "album_key": "SpidermanCharacterAlbum",
+            "cards_on_this_album": [
+                {
+                    "variant_id": 2842,
+                    "variant_key": "SpiderMan_01",
+                    "variant_label": "Pixel",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/715d14a2-2d8a-42e7-f214-0d7e6b74a400/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2843,
+                    "variant_key": "SpiderMan_02",
+                    "variant_label": "Symbiote",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/5863fcec-a641-473c-959d-077c846dab00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2844,
+                    "variant_key": "SpiderMan_03",
+                    "variant_label": "Max Grecke",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/8122c76e-a1e8-4e90-bb9f-1f60f3a51000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2845,
+                    "variant_key": "SpiderMan_04",
+                    "variant_label": "Patrick Brown",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f021343d-c388-4822-e492-63ed54ffc300/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2846,
+                    "variant_key": "SpiderMan_05",
+                    "variant_label": "Kael Ngu",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/89de603d-9ca5-4877-e135-16c77d417100/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2847,
+                    "variant_key": "SpiderMan_06",
+                    "variant_label": "Dan Hipp",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f6a5c459-e951-49ca-0381-6f6e1c8ca900/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2848,
+                    "variant_key": "SpiderMan_07",
+                    "variant_label": "Spider-Verse",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/3a0bab14-c05c-4784-e7d2-049b0a864000/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2849,
+                    "variant_key": "SpiderMan_08",
+                    "variant_label": "Anime",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/2ed8c6dc-09cb-464d-55bd-6bf9988a4f00/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2850,
+                    "variant_key": "SpiderMan_10",
+                    "variant_label": "Hero",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/e499730d-3931-40f6-3a10-d1e36f153800/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2852,
+                    "variant_key": "SpiderMan_14",
+                    "variant_label": "Midnight Suns",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/f909108b-886d-41f6-bd00-dcd3784af200/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2853,
+                    "variant_key": "SpiderMan_15",
+                    "variant_label": "Peach Momoko",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/a6ae5726-17c8-4bee-8e21-b11604429300/public",
+                    "card_series": "Series3"
+                },
+                {
+                    "variant_id": 2859,
+                    "variant_key": "SpiderMan_27",
+                    "variant_label": "In-Hyuk Lee",
+                    "Image": "https://imagedelivery.net/WeUSpTTnN6p7LLSToV3zTA/02dc70cf-407f-46d3-f0e5-e8facd202900/public",
+                    "card_series": "Series3"
+                }
+            ]
+        }
+    ]
+}
